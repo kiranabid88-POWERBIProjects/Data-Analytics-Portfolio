@@ -9,7 +9,7 @@ Visuals — Sales Trend Over Time, Product Sales and Profit (bubble scatter plot
 
 Slicers — Year, Region, Category, with a "Clear all slicers" button and a "Summary" navigation button
 
-PBIDesktop_MujtxUDfhD.png
+SALES DASHBOARD.png
 
 
 DATA MODEL
